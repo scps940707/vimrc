@@ -6,6 +6,8 @@
 
 [個人化自己的vim文字編輯器(.vimrc設定教學) | MagicLen](https://magiclen.org/vimrc/)
 
+[语虚: VIM学习笔记 键盘映射 (Map)](http://yyq123.blogspot.com/2010/12/vim-map.html)
+
 ## Others vim plugin setting
 
 ### [Vrapper — Vim-like editing in Eclipse](http://vrapper.sourceforge.net/home/)
