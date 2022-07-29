@@ -10,6 +10,7 @@
 :set cursorcolumn
 
 :set hlsearch
+:set showtabline=2  " Always show the tab bar
 
 " Move the line up/down
 :nmap <A-J> ddp
