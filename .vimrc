@@ -9,6 +9,8 @@
 :set cursorline
 :set cursorcolumn
 
+:set hlsearch
+
 " Move the line up/down
 :nmap <A-J> ddp
 :nmap <A-K> ddkP
