@@ -1,5 +1,14 @@
 " Use `source` command to import this vim setting in other vimrc file
 
+" reference: https://magiclen.org/vimrc/
+:set t_Co=256
+:colorscheme torte
+
+:set cursorline
+hi CursorLine cterm=none ctermbg=235 "ctermfg=White
+:set nocursorcolumn
+hi CursorColumn cterm=none ctermbg=235 "ctermfg=White
+
 :set scrolloff=10
 :set ignorecase
 
