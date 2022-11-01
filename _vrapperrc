@@ -4,4 +4,4 @@
 
 source ~/.vim/vimrc  " Path of the vimrc file
 
-:set nohlsearch  " Use toggle mark occurrence built-in Eclipse
+set nohlsearch  " Use toggle mark occurrence built-in Eclipse
