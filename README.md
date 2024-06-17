@@ -2,6 +2,8 @@
 
 ## Reference
 
+[VIM 中文帮助: 总览及快速参考](https://yianwillis.github.io/vimcdoc/doc/help.html)
+
 [Configuring Vim When Using Git Bash on Windows · Quakkels.com](https://quakkels.com/posts/configuring-vim-when-using-git-bash/)
 
 [個人化自己的vim文字編輯器(.vimrc設定教學) | MagicLen](https://magiclen.org/vimrc/)
