@@ -22,12 +22,12 @@ set hlsearch
 set showtabline=2  " Always show the tab bar
 
 " Move the line up/down
-nmap <A-J> ddp
-nmap <A-K> ddkP
+nnoremap <M-J> ddp
+nnoremap <M-K> ddkP
 
 " Cut/copy/paste from system clipboard
-nmap <C-X> :+x
-nmap <C-C> :+y
-nmap <C-V> :+p
+noremap <C-X> :+x
+noremap <C-C> "+y
+noremap <C-V> :+p
 
-cmap <C-V> <C-R>+
+cnoremap <C-V> <C-R>+
