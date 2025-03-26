@@ -1,4 +1,4 @@
 source ~/.vimrc
 
-# Press `space` to activate AceJump
+" Press `space` to activate AceJump
 map <space> <Action>(AceAction)
